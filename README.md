@@ -1,4 +1,4 @@
-Live Link - journal-app-three-snowy.vercel.app
+Live Link - https://journal-app-three-snowy.vercel.app/
 
 
 
